@@ -1,0 +1,14 @@
+name: Timbering
+main: me.nilt0.timbering.plugin.Timbering
+version: 1.0
+description: Simple yet effective wood gathering plugin for minecraft
+api-version: 1.20
+commands:
+  trcf:
+    description: Command to reload Timbering.
+    usage: /<command>
+    permission: Timbering.ReloadConfigurationFile
+permissions:
+  Timbering.ReloadConfigurationFile:
+    description: Allows you to reload Timbering.
+    default: OP
