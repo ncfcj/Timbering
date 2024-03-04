@@ -1,6 +1,6 @@
 name: Timbering
 main: me.nilt0.timbering.plugin.Timbering
-version: 1.0
+version: 1.1
 description: Simple yet effective wood gathering plugin for minecraft
 api-version: 1.20
 commands:

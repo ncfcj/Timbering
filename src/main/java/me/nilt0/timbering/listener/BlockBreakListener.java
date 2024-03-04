@@ -79,8 +79,8 @@ public class BlockBreakListener implements Listener {
         materialList.add(Material.DARK_OAK_LOG);
         materialList.add(Material.MANGROVE_LOG);
         materialList.add(Material.CHERRY_LOG);
-        materialList.add(Material.CRIMSON_HYPHAE);
-        materialList.add(Material.WARPED_HYPHAE);
+        materialList.add(Material.CRIMSON_STEM);
+        materialList.add(Material.WARPED_STEM);
 
         return materialList;
     }
