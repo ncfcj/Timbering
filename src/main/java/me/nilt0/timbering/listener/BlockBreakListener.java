@@ -79,6 +79,7 @@ public class BlockBreakListener implements Listener {
         materialList.add(Material.DARK_OAK_LOG);
         materialList.add(Material.MANGROVE_LOG);
         materialList.add(Material.CHERRY_LOG);
+        materialList.add(Material.PALE_OAK_LOG);
         materialList.add(Material.CRIMSON_STEM);
         materialList.add(Material.WARPED_STEM);
 
@@ -92,6 +93,7 @@ public class BlockBreakListener implements Listener {
         materialList.add(Material.DIAMOND_AXE);
         materialList.add(Material.GOLDEN_AXE);
         materialList.add(Material.IRON_AXE);
+        materialList.add(Material.COPPER_AXE);
         materialList.add(Material.STONE_AXE);
         materialList.add(Material.WOODEN_AXE);
 
